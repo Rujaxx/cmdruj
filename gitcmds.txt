@@ -8,3 +8,18 @@ show modified files in working directory, staged for your next commit
 add a file as it looks now to your next commit (stage)
 
 4 git commit -m 'mod1'
+git commit will create a snapshot of the changes and save it to the git directory.
+
+5 git branch
+makes a branch folder
+
+6 git checkout branchname
+to switch branches
+
+7 git remote add origin url
+to add/upload repo to git
+
+8 git remote -v
+to verify new remote url
+
+9 git push
