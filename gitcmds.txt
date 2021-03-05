@@ -1,7 +1,10 @@
-1 git init
+1 git init cmdchallenge1
 initialize an existing directory as a Git repository
 
 2 git status  
 show modified files in working directory, staged for your next commit
 
-3 git add
+3 git add . and git add Readme.md 
+add a file as it looks now to your next commit (stage)
+
+4 git commit -m 'mod1'
